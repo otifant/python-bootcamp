@@ -27,9 +27,7 @@ Jede print() Anweisung schreibt dabei auf eine neue Zeile. Beachte, das in Pytho
 Jedes Statement im Code wird hierbei auf eine neue Zeile geschrieben, ohne Semikolon.
 Kommentare werden mit einem # Zeichen eingeleitet.
 Eine main Methode wie in vielen anderen Programmiersprachen braucht es nicht.
-"""
 
-"""
 Ein sehr wichtiger Punkt, welcher Python von praktisch allen anderen Programmiersprachen unterscheidet ist, 
 dass Code-Blöcke nicht durch geschweifte Klammern (also "{" und "}") abgetrennt werden, sondern durch Einrückungen.
 
