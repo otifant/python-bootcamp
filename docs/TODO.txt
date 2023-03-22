@@ -2,6 +2,7 @@
 # https://www.learnpython.org/en/Basic_String_Operations
 # generators
 # input
+# regex
 # tuple https://www.w3schools.com/python/python_tuples.asp
 
 
