@@ -1,7 +1,6 @@
 # https://www.learnpython.org/en/String_Formatting
 # https://www.learnpython.org/en/Basic_String_Operations
 # generators
-# input
 # regex
 
 
