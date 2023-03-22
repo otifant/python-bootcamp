@@ -3,7 +3,6 @@
 # generators
 # input
 # regex
-# tuple https://www.w3schools.com/python/python_tuples.asp
 
 
 # https://www.w3schools.com/python/python_variables_output.asp
