@@ -2,9 +2,3 @@
 # https://www.learnpython.org/en/Basic_String_Operations
 # generators
 # regex
-
-
-# https://www.w3schools.com/python/python_variables_output.asp
-
-
-# https://www.youtube.com/watch?v=dXkWy58MV2Y
