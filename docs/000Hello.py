@@ -4,7 +4,6 @@
 # generators
 # input
 # imports
-# set https://www.w3schools.com/python/python_tuples.asp
 # tuple https://www.w3schools.com/python/python_tuples.asp
 
 
