@@ -2,3 +2,5 @@
 # https://www.learnpython.org/en/Basic_String_Operations
 # generators
 # regex
+# Turtle
+# Lambdas
