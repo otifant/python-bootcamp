@@ -1,0 +1,3 @@
+Why did Python software engineers go to Atlantis?
+
+To see if they could use Pydantic models to validate the properties of the mythical sea creatures, and to check if they could apply Pydantic's strict type checking to the underwater ecosystem!
